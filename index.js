@@ -10,4 +10,4 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
-number 1+=80
+function inc(n) {return n+=1}
